@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#0A0E17"/>
+  {/* Outer Frame */}
+  <rect x="10" y="10" width="44" height="44" rx="2" stroke="#C5A059" stroke-width="3" fill="#131B2A"/>
+  {/* Inner Divider */}
+  <line x1="32" y1="12" x2="32" y2="52" stroke="#C5A059" stroke-width="2.5"/>
+  {/* Glass Tint Left */}
+  <rect x="14" y="14" width="16" height="36" fill="#38BDF8" fill-opacity="0.2" stroke="#38BDF8" stroke-width="1"/>
+  {/* Glass Tint Right */}
+  <rect x="34" y="14" width="16" height="36" fill="#38BDF8" fill-opacity="0.2" stroke="#38BDF8" stroke-width="1"/>
+  {/* Dimension Tick Left-Right */}
+  <line x1="10" y1="58" x2="54" y2="58" stroke="#C5A059" stroke-width="1.5"/>
+  <line x1="10" y1="56" x2="10" y2="60" stroke="#C5A059" stroke-width="1.5"/>
+  <line x1="54" y1="56" x2="54" y2="60" stroke="#C5A059" stroke-width="1.5"/>
+</svg>
